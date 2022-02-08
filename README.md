@@ -9,7 +9,7 @@
 [Microsoft Windows](https://www.microsoft.com/en-us/windows)<br>
 
 
-Provided code is tested with **Python 3.9.7**, and **Windows 10 20H2**.
+Provided code is tested with **Python 3.9.7**, and **Windows 10**.
 
 ## Usage
 
