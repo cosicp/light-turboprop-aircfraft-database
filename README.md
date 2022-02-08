@@ -1,7 +1,7 @@
 # Python 3 database for statistical analysis of light turboprop aircraft 
 
 <p align="center">
-  <img src="https://github.com/cosicp/light-turboprop-aircfraft-database/blob/main/light_turboprop_database.PNG">
+  <img src="https://github.com/cosicp/light-turboprop-aircfraft-database/blob/main/light_turboprop_database_img.PNG">
 </p>
 
 ## Requirements
