@@ -30,7 +30,7 @@ PLT_GRID = 0 # 1 - YES  0 - NO
 
 # Calculate optimal values for the initial maximal takeoff weight 
 CALCULATE_OPTIMAL_VALUES = 1  # 1 - YES , 0 - NO
-INITIAL_MAX_TAKEOFF_MASS  = 2545 # [kg] turboprop
+INITIAL_MAX_TAKEOFF_MASS  = 2545 # [kg] Amphibious 
 
 
 #    initializing
