@@ -432,13 +432,3 @@ if SAVE_FIG == 1:
     plt.savefig(f'images/MTOW_M_fuel.{IMG_FORMAT}')
 if IMG_SHOW == 1:
     plt.show()
-
-
-
-
-
-
-
-
-
-
