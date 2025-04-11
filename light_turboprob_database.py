@@ -4,7 +4,6 @@
 # email: cpetar112@gmail.com
 # created: 8.2.2022.
 
-
 import matplotlib.pyplot as plt
 import numpy as np
 import airplane_class as apc
